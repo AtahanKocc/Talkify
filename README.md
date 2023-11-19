@@ -68,3 +68,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+## Project Details
+This application is a simple chat app created using the OpenAI API. Its main purpose is to complete the text entered by the user with the OpenAI language model and interactively display these completions to the user. Additionally, it allows the user to switch between titles and view the previous chat history. This is a basic sample application created to experiment with and enhance the language model interactively using the OpenAI API.
+Footnote: If you encounter an error with the OpenAI API, log in again, create a new API with a different account.
